@@ -1,0 +1,27 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:sweet_berries"
+    },
+    "m": {
+      "tag": "c:foods/milk"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "w": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "pattern": [
+    " b ",
+    "mmm",
+    "sws"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bakingdelight:unbaked_cake"
+  }
+}

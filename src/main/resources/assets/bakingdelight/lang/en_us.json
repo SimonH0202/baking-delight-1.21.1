@@ -1,0 +1,12 @@
+﻿{
+  "item.bakingdelight.unbaked_cookie": "Unbaked Cookie",
+  "item.bakingdelight.unbaked_sweet_berry_cookie": "Unbaked Sweet Berry Cookie",
+  "item.bakingdelight.unbaked_cake": "Unbaked Cake",
+  "item.bakingdelight.unbaked_honey_cookie": "Unbaked Honey Cookie",
+  "item.bakingdelight.unbaked_sweet_berry_cheesecake": "Unbaked Sweet Berry Cheesecake",
+  "item.bakingdelight.unbaked_apple_pie": "Unbaked Apple Pie",
+  "item.bakingdelight.unbaked_chocolate_pie": "Unbaked Chocolate Pie",
+  "item.bakingdelight.unbaked_pumpkin_pie": "Unbaked Pumpkin Pie",
+
+  "itemgroup.bakingdelight.unbaked_cookie": "Baking Delight"
+}

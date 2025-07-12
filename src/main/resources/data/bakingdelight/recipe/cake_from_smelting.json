@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "bakingdelight:unbaked_cake"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:cake"
+  }
+}

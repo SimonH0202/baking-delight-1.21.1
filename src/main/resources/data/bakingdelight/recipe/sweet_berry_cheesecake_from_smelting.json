@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "bakingdelight:unbaked_sweet_berry_cheesecake"
+  },
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:sweet_berry_cheesecake"
+  }
+}

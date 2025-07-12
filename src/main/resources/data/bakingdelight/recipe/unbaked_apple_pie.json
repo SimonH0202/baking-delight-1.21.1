@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "farmersdelight:wheat_dough"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "aaa",
+    "xOx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bakingdelight:unbaked_apple_pie"
+  }
+}

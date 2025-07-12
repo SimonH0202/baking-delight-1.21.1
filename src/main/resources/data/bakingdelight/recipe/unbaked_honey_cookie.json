@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:honey_bottle"
+    },
+    "W": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "result": {
+    "id": "bakingdelight:unbaked_honey_cookie",
+    "count": 4
+  }
+}
