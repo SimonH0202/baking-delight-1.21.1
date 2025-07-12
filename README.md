@@ -1,6 +1,6 @@
 # 🍞 Baking Delight
 
-**Baking Delight** is an add-on mod for [Farmer's Delight Refabricated]([[https://www.curseforge.com/minecraft/mc-mods/farmers-delight]((https://modrinth.com/mod/farmers-delight-refabricated)) that adds **unbaked versions** of vanilla and Farmer's Delight **cakes, pies, and cookies**.
+**Baking Delight** is an add-on mod for [Farmer's Delight Refabricated]((https://modrinth.com/mod/farmers-delight-refabricated)) that adds **unbaked versions** of vanilla and Farmer's Delight **cakes, pies, and cookies**.
 
 ## 🍪 Features
 
